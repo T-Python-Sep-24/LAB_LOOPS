@@ -11,8 +11,6 @@ sum: int = 0
 for num in numbers:
     if num % 2 == 0:
         sum += num
-    else: 
-        continue
-
+        
 #Print results
 print(f"Sum of even numbers between 1 and {n} is: {sum}")
