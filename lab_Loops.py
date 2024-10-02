@@ -1,5 +1,5 @@
 # For loop with range
-for i in range(45,210):
+for i in range(45, 210):
 
     if i == 100:
         continue
@@ -10,8 +10,8 @@ for i in range(45,210):
 # While loop
 while True:
     ans = int(input("What is the product of 7 * 24 ? "))
-    if ans == 7 * 24:
-        print("correct")
+    if ans == (7 * 24):
+        print("You answered this Question correctly")
         break
     else:
-        print("Wrong, Try again")
+        print("Your Answer is wrong try again..")
