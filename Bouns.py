@@ -4,4 +4,4 @@ while number <= n:
         sum += number
         print(sum)
     number += 1
-print(f"The sum of even numbers between {number} and {n} is {sum}.")
+print(f"The sum of even numbers between 1 and {n} is {sum}.")
